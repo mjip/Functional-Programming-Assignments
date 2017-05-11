@@ -1,7 +1,7 @@
 module Hw2
 
 (* Assignment 2 *) (* Do not edit this line. *)
-(* Student name: Marie Payne, Id Number: 260686859 *) (* Edit this line. *)
+(* Student name: ************************************* *) (* Edit this line. *)
 
 (* In the template below we have written the names of the functions that
 you need to define.  You MUST use these names.  If you introduce auxiliary
