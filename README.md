@@ -1,4 +1,2 @@
-# Functional-Programming-Assignments
+# Functional Programming Assignments
 Functional programming assignments (in F#)
-
-
